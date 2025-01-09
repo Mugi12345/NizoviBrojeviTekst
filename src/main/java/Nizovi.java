@@ -19,6 +19,7 @@ public class Nizovi {
         int[] numbers1 = {1, 2, 3, 5, 8, 77}; //najjednostavniji nacin pisanja niza
         System.out.println(Arrays.toString(numbers));
 
+
         System.out.println(Arrays.toString(numbers1));
         System.out.println("");
         int[] destArray = new int[numbers.length + numbers1.length];
