@@ -1,3 +1,5 @@
+package Nizovi;
+
 public class NizoviVjezba {
     public static void main(String[] args) {
         int[] array = {1, 5, 33, 563, 0, 2, 23, 9, 9, 11, 987, 23, 934, 999, 43};

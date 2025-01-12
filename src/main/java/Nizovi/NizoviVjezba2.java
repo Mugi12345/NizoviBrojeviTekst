@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package Nizovi;
 
 public class NizoviVjezba2 {
     public static void main(String[] args) {
