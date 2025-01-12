@@ -10,5 +10,7 @@ public class TekstVjezba4 {
            output = output.replace(forbidenChars[i], "");
         }
         System.out.println(output);
+
+
     }
 }

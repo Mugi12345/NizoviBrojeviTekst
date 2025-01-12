@@ -60,8 +60,10 @@ public class Tekst {
         System.out.println();
         String s = "This is String";
         char char1 = s.charAt(2);
+
         System.out.println(char1);
         System.out.println();
+
 
         String s1 = "This is String. Or is it?  Yes, it is! Good job.";
         String[] array2 = s1.split("[ .,?!]+");

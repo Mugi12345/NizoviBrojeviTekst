@@ -8,7 +8,7 @@ public class TekstVjezba3 {
         String[] usersArray = users.split("\\|");
 //        for (int i = 0; i < usersArray.length; i++) {
 //            System.out.println(usersArray[i]);
-//        }
+//        }m
         for (int i = 0; i < usersArray.length; i += 2) {
             String firstName = usersArray[i].split(" ")[1];
             String lastName = usersArray[i + 1].split(" ")[1];
